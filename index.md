@@ -2,7 +2,7 @@
 
 I am a research scholar (Aug. 2022 - Aug. 2023) in [Computer Science at University of Illinois Urbana-Champaign](https://cs.illinois.edu/), working with [Prof. Ling Ren](https://sites.google.com/view/renling). I did my undergraduate and graduate studies (M.S.) at Nagoya University advised by [Prof. Yuichi Kaji](https://profs.provost.nagoya-u.ac.jp/html/100009250_en.html) (Apr. 2015 - Mar. 2021), and spent a year at [SECOM](https://www.secom.co.jp/isl/en/) (Apr. 2021 - Jul. 2022).
 
-**[Google Scholar](https://scholar.google.com/citations?user=fl3XtlUAAAAJ&hl=da) / [Twitter](https://www.twitter.com/AtsukiMomose)**
+**[Google Scholar](https://scholar.google.com/citations?user=fl3XtlUAAAAJ&hl=en) / [Twitter](https://www.twitter.com/AtsukiMomose)**
 
 
 ## Research.
