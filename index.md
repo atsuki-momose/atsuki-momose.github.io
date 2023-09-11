@@ -28,20 +28,14 @@ Distributed computing often relies on secret-shared randomness, which involves d
 
 ## Publications.
 
-[On the Security of KZG Commitment for VSS.](https://eprint.iacr.org/2023/1350) 
-  - with Sourav Das and Ling Ren *@ACM CCS 2023*
+* [On the Security of KZG Commitment for VSS.](https://eprint.iacr.org/2023/1350) with Sourav Das and Ling Ren *@ACM CCS 2023*
 
-[Towards Practical Sleepy BFT.](https://eprint.iacr.org/2022/1448) 
-  - with Dahlia Malkhi and Ling Ren *@ACM CCS 2023*
+* [Towards Practical Sleepy BFT.](https://eprint.iacr.org/2022/1448) with Dahlia Malkhi and Ling Ren *@ACM CCS 2023*
 
-[On the  Amortized Communication Complexity of Byzantine Broadcast.](https://eprint.iacr.org/2023/038)
-  - with Ling Ren, Elaine Shi, Jun Wan, and Zhuolun Xiang. *@ACM PODC 2023.*
+* [On the  Amortized Communication Complexity of Byzantine Broadcast.](https://eprint.iacr.org/2023/038) with Ling Ren, Elaine Shi, Jun Wan, and Zhuolun Xiang. *@ACM PODC 2023.*
 
-[Constant Latency in Sleepy Consensus.](https://eprint.iacr.org/2022/404) 
-  - with Ling Ren. *@ACM CCS 2022.*
+* [Constant Latency in Sleepy Consensus.](https://eprint.iacr.org/2022/404) with Ling Ren. *@ACM CCS 2022.*
 
-[Multi-Threshold Byzantine Fault Tolerance.](https://eprint.iacr.org/2021/671) 
-  - with Ling Ren *@ACM CCS 2021*
+* [Multi-Threshold Byzantine Fault Tolerance.](https://eprint.iacr.org/2021/671) with Ling Ren *@ACM CCS 2021*
 
-[Optimal Communication Complexity of Authenticated Byzantine Agreement.](https://drops.dagstuhl.de/opus/volltexte/2021/14834/pdf/LIPIcs-DISC-2021-32.pdf) 
-  - with Ling Ren *@DISC 2021*
+* [Optimal Communication Complexity of Authenticated Byzantine Agreement.](https://drops.dagstuhl.de/opus/volltexte/2021/14834/pdf/LIPIcs-DISC-2021-32.pdf) with Ling Ren *@DISC 2021*
