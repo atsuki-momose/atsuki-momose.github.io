@@ -1,8 +1,6 @@
 # Atsuki Momose
 
-I am a PhD student in [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), working with [Prof. Ling Ren](https://sites.google.com/view/renling). I did my undergraduate and graduate studies (M.S.) at Nagoya University advised by [Prof. Yuichi Kaji](https://profs.provost.nagoya-u.ac.jp/html/100009250_en.html).
-
-I am honored to receive [Tsujii Shigeo Security Paper Award (2022)](https://www.jssm.net/news/6808/). I am supported in part by the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683).
+I am doing research in [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) in the group of [Prof. Ling Ren](https://sites.google.com/view/renling). 
 
 **[Google Scholar](https://scholar.google.com/citations?user=fl3XtlUAAAAJ&hl=en) / [Twitter](https://www.twitter.com/AtsukiMomose)**
 
