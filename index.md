@@ -1,9 +1,10 @@
 # Atsuki Momose
 
-I am doing research in [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) in the group of [Prof. Ling Ren](https://sites.google.com/view/renling). 
+I am a researcher at [Acompany](https://acompany.tech/), a privacy-tech startup based in Japan. Prior to joining Acompany, I was a visiting research scholar and PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/).
+
+I am honored to have received the [Tsujii Shigeo Security Paper Award 2022](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). I serve as a program committee member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html).
 
 **[Google Scholar](https://scholar.google.com/citations?user=fl3XtlUAAAAJ&hl=en) / [Twitter](https://www.twitter.com/AtsukiMomose)**
-
 
 ## Research.
 
