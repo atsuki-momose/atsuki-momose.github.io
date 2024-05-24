@@ -2,7 +2,7 @@
 
 I am a researcher at [Acompany](https://acompany.tech/), a privacy-tech startup based in Japan. Prior to joining Acompany, I was a visiting research scholar and PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
-I am honored to have received the [Tsujii Shigeo Security Paper Award 2022](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). I serve as a program committee member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html).
+I am honored to have received the [Tsujii Shigeo Security Paper Award 2022](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). I am also selected as a program committee member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html).
 
 **[Google Scholar](https://scholar.google.com/citations?user=fl3XtlUAAAAJ&hl=en) / [Twitter](https://www.twitter.com/AtsukiMomose)**
 
@@ -24,12 +24,13 @@ I am recently expanding my research interest to cryptography for distributed com
 * **Security of KZG commitment.**
 Distributed computing often relies on secret-shared randomness, which involves distribution of polynomial evaluations. An essential cryptographic primitive for secret-sharing is a polynomial commitment, which validates each evaluation without revealing the entire polynomial. KZG commitment is one of the gold standards of polynomial commitment and finds widespread use in the design of bandwidth-efficient secret-sharing protocols. However, we point out a critical property that the KZG commitment is missing, which we call *degree binding*. The property ensures that the polynomial used for secret-sharing has the required degree. In our recent work, we show how to augment the KZG commitment to guarantee this property while preserving the bandwidth efficiency. This work will appear in [ACM CCS 2023](https://eprint.iacr.org/2023/1350).
 
-
 ## Publications.
 
-* [On the Security of KZG Commitment for VSS.](https://eprint.iacr.org/2023/1350) with Sourav Das and Ling Ren *@ACM CCS 2023*
+* [Asynchronous Consensus without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677) with Sourav Das, Sisi Duan, Shengqi Liu, Ling Ren, and Victor Shoup. *@ACM CCS 2024*
 
-* [Towards Practical Sleepy BFT.](https://eprint.iacr.org/2022/1448) with Dahlia Malkhi and Ling Ren *@ACM CCS 2023*
+* [On the Security of KZG Commitment for VSS.](https://eprint.iacr.org/2023/1350) with Sourav Das and Ling Ren. *@ACM CCS 2023*.
+
+* [Towards Practical Sleepy BFT.](https://eprint.iacr.org/2022/1448) with Dahlia Malkhi and Ling Ren. *@ACM CCS 2023*.
 
 * [On the  Amortized Communication Complexity of Byzantine Broadcast.](https://eprint.iacr.org/2023/038) with Ling Ren, Elaine Shi, Jun Wan, and Zhuolun Xiang. *@ACM PODC 2023.*
 
