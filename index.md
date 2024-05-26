@@ -22,7 +22,7 @@ Consensus protocols in general assume a bound f on the number of *corrupt* nodes
 * **Optimal communication BA/BB.**
 Bitcoin is the first practical synchronous protocol, and it inspired several follow-up works that leverage synchronous communication for higher fault tolerance. All existing synchronous protocols share a common step: *forwarding messages to all other nodes*. This step helps detect conflicting views among nodes and prevents disagreement. However, it increases the overall communication by a factor of n compared to classical asynchronous protocols where nodes send their own belief only. To fill this gap, we introduce a new technique that utilizes an *expander graph* to forward messages efficiently yet being able to detect conflicting views among nodes. Remarkably, this technique also resolves a long-standing open question on the optimal communication complexity of Byzantine broadcast/agreement, namely the tightness of [Dolev-Reischuk lower bound](https://decentralizedthoughts.github.io/2019-08-16-byzantine-agreement-needs-quadratic-messages/). We have also applied this technique to design a *broadcast channel*, a primitive often used in cryptography, with optimal communication. These works are published in [DISC 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14834/pdf/LIPIcs-DISC-2021-32.pdf) and [ACM PODC 2023](https://eprint.iacr.org/2023/038).
 
-### Cryptography.
+### Distributed Cryptography.
 
 I am recently expanding my research interest to cryptography for distributed computing.
 
