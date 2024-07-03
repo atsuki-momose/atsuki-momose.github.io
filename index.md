@@ -2,7 +2,7 @@
 
 I am the founder of a research firm [Quitee](), and a research engineer at [Acompany](https://acompany.tech/), a privacy-tech startup based in Japan. Prior to joining Acompany, I was a visiting research scholar and PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
-I sincerely appreciate the grant support from the [Ethereum Foundation](https://ethereum.foundation/) for my ongoing work on asynchronous MPC. Stay tuned! 
+I sincerely appreciate the grant support from the [Ethereum Foundation](https://ethereum.foundation/) for my ongoing work on robust MPC for blockchain. Stay tuned! 
 
 I am also honored to have received the [Tsujii Shigeo Security Paper Award 2022](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). I am also selected as a program committee member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html).
 
