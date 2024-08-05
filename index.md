@@ -1,6 +1,6 @@
 # Atsuki Momose
 
-I am the founder of a research firm [Quitee](), and a research engineer at [Acompany](https://acompany.tech/), a privacy-tech startup based in Japan. Prior to joining Acompany, I was a visiting research scholar and PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/).
+I am the founder of [Quitee Research](). I am also a research engineer at [Acompany](https://acompany.tech/), a privacy-tech startup based in Japan. Prior to joining Acompany, I was a research scholar and PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
 I am also honored to have received the [Tsujii Shigeo Security Paper Award 2022](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). I am also selected as a program committee member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html).
 
