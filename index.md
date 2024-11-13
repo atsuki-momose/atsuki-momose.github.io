@@ -1,6 +1,8 @@
 # Atsuki Momose
 
-I am an independent researcher (affiliated with my own firm, Quitee LLC). Previously, I was a visiting research scholar and a PhD student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
+I am a Research Engineer at [Acompany](https://acompany.tech/en), a privacy-tech startup based in Japan. We are building a secure, regulation-compliant enterprise data collaboration platform leveraging confidential computing techniques.
+
+I am also working as an independent researcher (affiliated with my own firm, Quitee LLC) primarily on developing MPC for blockchains. Previously, I was a visiting research scholar and a PhD student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
 I sincerely appreciate the generous grant from the [Ethereum Foundation](https://ethereum.foundation/) for my ongoing research in asynchronous MPC. 
 I am honored to have received the [Tsujii Shigeo Security Paper Award (2022)](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). 
