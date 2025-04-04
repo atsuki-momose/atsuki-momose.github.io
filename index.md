@@ -1,13 +1,14 @@
 # Atsuki Momose
 
-I am a Research Engineer at [Acompany](https://acompany.tech/en), a privacy-tech startup based in Japan. We are building a secure, regulation-compliant enterprise data collaboration platform leveraging confidential computing techniques.
+I am an Executive Officer and Head of Research (Chief Research Officer) at [Acompany](https://acompany.tech/en), a privacy-tech startup based in Japan. I also serve as the Founding Director of Confidential Computing Lab (CC Lab) at Acompany, where we conduct cutting-edge R&D in Confidential Computing based on Trusted Execution Environment (TEE) technologies, in collaboration with both academic and industry research partners. 
 
-I am also working as an independent researcher (affiliated with my own firm, Quitee LLC) primarily on developing MPC for blockchains. Previously, I was a visiting research scholar and a PhD student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
+In addition, I work independently as a researcher on Multi-Party Computation (MPC) for blockchains. This project is partially supported by a research grant from the [Ethereum Foundation](https://ethereum.foundation/).
 
-I sincerely appreciate the generous grant from the [Ethereum Foundation](https://ethereum.foundation/) for my ongoing research in asynchronous MPC. 
+Previously, I was a Research Scholar and a Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
+
 I am honored to have received the [Tsujii Shigeo Security Paper Award (2022)](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). 
 
-I am selected as a program committee member for [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html).
+I also serve as a program committee member for [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html) and [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/call-for/call-for-papers.html).
 
 **[Google Scholar](https://scholar.google.com/citations?user=fl3XtlUAAAAJ&hl=en) / [Twitter](https://www.twitter.com/AtsukiMomose)**
 
