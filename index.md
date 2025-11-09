@@ -22,7 +22,7 @@ I am truly grateful to the [Ethereum Foundation](https://ethereum.foundation/) f
 - [Asynchronous Consensus without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677) with Sourav Das, Sisi Duan, Shengqi Liu, Ling Ren, and Victor Shoup. *@ACM CCS 2024*.
 - [On the Security of KZG Commitment for VSS.](https://eprint.iacr.org/2023/1350) with Sourav Das and Ling Ren. *@ACM CCS 2023*.
 
-### Blockchain.
+### Distributed Consensus.
 
 - [Optimal Communication Complexity of Authenticated Byzantine Agreement.](https://drops.dagstuhl.de/opus/volltexte/2021/14834/pdf/LIPIcs-DISC-2021-32.pdf) with Ling Ren *@DISC 2021*
     - Resolved the long-standing open question on the optimal communication complexity of Byzantine Agreement (a.k.a., Dolev-Reischuk bound) 🎉
