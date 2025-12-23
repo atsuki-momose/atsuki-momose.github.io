@@ -1,8 +1,8 @@
 # Atsuki Momose
 
-I am an Executive Officer and Head of Research (Chief Research Officer) at [Acompany](https://acompany.tech/en), a privacy-tech startup based in Japan. Previously, I was a Research Scholar and Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
+I am an independent researcher focused on leveraging **Confidential Computing technologies**, such as **Trusted Execution Environments (TEEs)** and **Multi-Party Computation (MPC)**, to enable **Confidential AI**, allowing enterprises to utilize sensitive data securely and transparently. 
 
-My primary focus is on leveraging **confidential computing technologies**, such as **Trusted Execution Environments (TEEs)** and **Multi-Party Computation (MPC)**, to help enterprises securely utilize confidential data and unlock new business value.
+Previsouly, I served as an Executive Officer and Head of Research at [Acompany](https://acompany.tech/en), a privacy-tech startup based in Japan. Prior to that, I was a Research Scholar and Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/). 
 
 I am truly grateful to the [Ethereum Foundation](https://ethereum.foundation/) for supporting my research through a grant. I am honored to have received the [Tsujii Shigeo Security Paper Award (2022)](https://www.jssm.net/news/6808/) and the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/Fellowship/4683). I also serve as a program committee member for [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html) and [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/call-for/call-for-papers.html).
 
