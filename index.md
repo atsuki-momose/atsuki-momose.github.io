@@ -1,6 +1,6 @@
 # Atsuki Momose
 
-I am an independent researcher focused on leveraging **Confidential Computing technologies**, such as **Trusted Execution Environments (TEEs)** and **Multi-Party Computation (MPC)**, to enable **Confidential AI**, allowing enterprises to utilize sensitive data securely and transparently. 
+I am an independent researcher focused on leveraging **Confidential Computing** technologies to enable **Confidential AI**, allowing enterprises to utilize sensitive data securely and transparently. 
 
 Previsouly, I served as an Executive Officer and Head of Research at [Acompany](https://acompany.tech/en), a privacy-tech startup based in Japan. Prior to that, I was a Research Scholar and Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/). 
 
